@@ -1,0 +1,9 @@
+MARS PHOTOS
+
+Abrir esta carpeta en Android Studio y seleccionar Gradle JVM 21.
+Entorno: Gradle 8.12, AGP 8.8.0, Kotlin 2.1.0 y SDK 35.
+
+Verificar el proyecto:
+gradlew.bat testDebugUnitTest assembleDebug lintDebug
+
+Ejecutar la configuracion app en un emulador o dispositivo con Internet.
